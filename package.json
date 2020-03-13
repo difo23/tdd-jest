@@ -4,7 +4,7 @@
   "description": "Pruebas con tdd",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/difo23/tdd_jest/issues"
   },
-  "homepage": "https://github.com/difo23/tdd_jest#readme"
+  "homepage": "https://github.com/difo23/tdd_jest#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
 }
