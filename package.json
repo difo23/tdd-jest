@@ -1,0 +1,24 @@
+{
+  "name": "tdd_jest",
+  "version": "1.0.0",
+  "description": "Pruebas con tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/difo23/tdd_jest.git"
+  },
+  "keywords": [
+    "TDD",
+    "JEST",
+    "JS"
+  ],
+  "author": "Lizandro Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/difo23/tdd_jest/issues"
+  },
+  "homepage": "https://github.com/difo23/tdd_jest#readme"
+}
