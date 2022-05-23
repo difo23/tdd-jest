@@ -1,6 +1,7 @@
 {
   "name": "tdd_jest",
   "version": "1.0.0",
+  "author": "lr",
   "description": "Pruebas con tdd",
   "main": "index.js",
   "scripts": {
